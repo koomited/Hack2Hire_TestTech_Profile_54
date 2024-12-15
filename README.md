@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes the German Credit Dataset to cluster customers and classify loan applicants as either Good or Bad credit risks. The dataset comprises 1000 entries with various attributes, and the goal is to develop a credit scoring prediction model, deploy it using Docker, and create an interactive dashboard Power BI to visualize the results..
+This project analyzes the German Credit Dataset to cluster customers and classify loan applicants as either Good or Bad credit risks. The dataset comprises 1000 entries with various attributes, and the goal is to develop a credit scoring prediction model, deploy it using Dockr, and create an interactive dashboard Power BI to visualize the results..
 
 ## Tasks Performed
 
