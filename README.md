@@ -20,25 +20,19 @@ This project analyzes the German Credit Dataset to cluster customers and classif
 4. **Feature Scaling:**
    - Ensured consistent scaling of numerical features.
 
-5. **Clustering:**
-   - Selected numerical features for clustering.
-   - Utilized the elbow method to find optimal clusters.
-
-6. **Dimensionality Reduction (PCA):**
-   - Used PCA to visualize clusters in lower-dimensional space.
-
-7. **Modeling and Evaluation:**
-   - Implemented K-Fold Cross-Validation with a chosen classifier.
+5. **Modeling and Evaluation:**
+   - Implemented K-Fold Cross-Validation with Random Forest.
    - Reported evaluation metrics.
 
 ## Files Included
 
 - `EDA.ipynb`: Jupyter notebook with analysis code.
+- `utils.py`: python file containing usefull functions for plots and some computations.
 - `readme.md`: This file, providing an overview and instructions.
 
 ## How to Use
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/german-credit-analysis.git
-   cd german-credit-analysis
+   git clone https://github.com/your-username/Hack2Hire_TestTech_Profile_54.git
+   cd Hack2Hire_TestTech_Profile_54
