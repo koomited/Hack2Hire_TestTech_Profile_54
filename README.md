@@ -23,12 +23,18 @@ This project analyzes the German Credit Dataset to cluster customers and classif
 5. **Modeling and Evaluation:**
    - Implemented K-Fold Cross-Validation with Random Forest.
    - Reported evaluation metrics.
+  
+6. **Deployment:**
+   - Create api with flask.
+   - Create dockerfile for model deployment.
 
 ## Files Included
 
 - `EDA.ipynb`: Jupyter notebook with analysis code.
 - `utils.py`: python file containing usefull functions for plots and some computations.
 - `readme.md`: This file, providing an overview and instructions.
+- `api.py`: api program using flask
+- `Dockerfile`: dockerile for the model dockerization
 
 ## How to Use
 
