@@ -35,6 +35,7 @@ This project analyzes the German Credit Dataset to cluster customers and classif
 - `readme.md`: This file, providing an overview and instructions.
 - `api.py`: api program using flask
 - `Dockerfile`: dockerile for the model dockerization
+- `test_request.py`: samal test of the api
 
 ## How to Use
 
