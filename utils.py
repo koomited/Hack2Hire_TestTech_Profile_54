@@ -140,7 +140,29 @@ def binary_plot_count(data:pd.DataFrame, categorical_feats:list,
     
     plt.show()
 
-    
+def has_outliers(data:pd.DataFrame, feature:str):
+    # Calculate the upper and lower limits
+    Q1 = data[feature].quantile(0.25)
+    Q3 = data[feature].quantile(0.75)
+    IQR = Q3 - Q1
+    lower = Q1 - 1.5*IQR
+    upper = Q3 + 1.5*IQR
+
+    # Create arrays of Boolean values indicating the outlier rows
+    upper_array = np.where(data[feature] >= upper)[0]
+    lower_array = np.where(data[feature] <= lower)[0]
+
+    num_outliers = len(upper_array) + len(lower_array)
+
+    return num_outliers, lower_array, upper_array, Q1, Q3
+
+def replace_outliers(data:pd.DataFrame, outlier_feature:str):
+    _, lower_array, upper_array, Q1, Q3=has_outliers(data, outlier_feature)
+    data.loc[lower_array, outlier_feature] = Q1
+    data.loc[upper_array, outlier_feature] = Q3
+    return data
+
+
      
 def plot_ROC_curve(clf, label_leg, X, y_obs, class_index):
 

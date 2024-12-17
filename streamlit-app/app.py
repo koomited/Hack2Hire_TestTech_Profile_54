@@ -44,7 +44,7 @@ st.sidebar.title("")
 univariate_page = st.Page("univariate.py", title="Univariate Analysis", icon="📶")
 bivariate_page = st.Page("bivariate.py", title="Biariate Analysis", icon="📊")
 model_page = st.Page("model.py", title="Model Results", icon="📈")
-predictions_page = st.Page("predictions.py", title="Model Predictions", icon="🎯")
+predictions_page = st.Page("predictions.py", title="Model Forcasting", icon="🎯")
 
 pg = st.navigation([univariate_page, bivariate_page, model_page, predictions_page])
 
