@@ -31,7 +31,7 @@ fig, ax = plt.subplots(figsize=(7, 6), dpi=500)
 indices = np.argsort(importances)
 
 # Plot horizontal bar chart
-ax.barh(range(len(indices)), np.array(importances)[indices], color='teal', align='center')
+ax.barh(range(len(indices)), np.array(importances)[indices], color='b', align='center', alpha=0.6)
 ax.set_yticks(range(len(indices)))
 ax.set_yticklabels([features[i] for i in indices])
 ax.set_xlabel('Relative Importance', fontsize=10)
