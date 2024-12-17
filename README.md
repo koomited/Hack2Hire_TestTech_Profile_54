@@ -28,6 +28,8 @@ This project analyzes the German Credit Dataset to cluster customers and classif
    - Create api with flask.
    - Create dockerfile for model deployment.
 
+   - Streamlit app: https://german-credit-analysis.streamlit.app/
+
 ## Files Included
 
 - `EDA.ipynb`: Jupyter notebook with analysis code.
