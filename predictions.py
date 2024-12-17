@@ -11,10 +11,10 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-## Import scaler
-scaler = joblib.load('../scaler.pkl')
+## Import scalerstreamlit-app/app.py streamlit-app/bivariate.py streamlit-app/model.py streamlit-app/predictions.py streamlit-app/univariate.py
+scaler = joblib.load('scaler.pkl')
 # Import model
-model = joblib.load("../best_rf.pkl")
+model = joblib.load("best_rf.pkl")
     
     
 # entry form
