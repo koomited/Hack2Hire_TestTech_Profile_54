@@ -10,7 +10,7 @@ st.set_page_config(
     layout="wide", 
     initial_sidebar_state="expanded"
 )
-st.markdown('<style> div.block-container{padding-top:1.5rem;}</style>', unsafe_allow_html=True)
+st.markdown('<style> div.block-container{padding-top:3rem;}</style>', unsafe_allow_html=True)
 # Open and resize the image
 image = Image.open("scaled.jpg")
 resized_image = image.resize((image.width, int(image.height * 0.1)))  # Reduce height by 50%
