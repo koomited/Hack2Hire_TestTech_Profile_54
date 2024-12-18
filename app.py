@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import matplotlib.pyplot as plt
+from PIL import Image
 
 st.set_page_config(
     page_title="German Credit", 
@@ -9,18 +10,20 @@ st.set_page_config(
     layout="wide", 
     initial_sidebar_state="expanded"
 )
+st.markdown('<style> div.block-container{padding-top:1.5rem;}</style>', unsafe_allow_html=True)
+# Open and resize the image
+image = Image.open("scaled.jpg")
+resized_image = image.resize((image.width, int(image.height * 0.1)))  # Reduce height by 50%
 
-    
+# Display the resized image
+st.image(resized_image, caption="")
+
 st.markdown(
     "<h1 style='text-align: center;'>German Credit Prediction with Random Forest</h1>", 
     unsafe_allow_html=True
 )
-#  [data-testid="stSidebarNav"] {
-#                 background-image: url(https://i0.wp.com/www.german-way.com/wp-content/uploads/2016/04/Euro_banknotes_2002.png?fit=800%2C587&ssl=1);
-#                 background-repeat: no-repeat;
-#                 padding-top: 12px;
-#                 background-position: 20px 20px;
-#             }
+
+
 def add_logo():
     st.markdown(
         """
