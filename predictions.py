@@ -55,12 +55,12 @@ if submitted:
     with st.container():
         if prediction_prob[0] < 0.5:
             # Green Box for Approved
-            st.success("Eligible for Credit ✅")
+            st.success("## Eligible for Credit ✅")
             
             
         else:
             # Red Box for Rejected
-            st.error("Not Eligible for Credit ❌")
+            st.error("## Not Eligible for Credit ❌")
             
             
         
