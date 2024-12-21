@@ -13,7 +13,7 @@ st.markdown(
 features =  pd.read_csv("./data/features.csv")
 features = features.columns.to_list()
 
-importances =  pd.read_csv("./data/importances.csv")
+importances =  pd.read_csv("../data/importances.csv")
 importances = [round(float(num),4) for num in importances.columns.to_list()]
 
 st.markdown(
