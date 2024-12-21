@@ -1,21 +1,13 @@
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Python](https://blog.accredian.com/wp-content/uploads/2019/04/Python-logo.jpg)](#)
+[![Flask](https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/268566349-c41e65a5-2ab9-4b54-8cbc-350ab6da746c.png)](#)
+[![Python](https://miro.medium.com/v2/resize:fit:1200/1*srQdUu5yPUu6msmYr_-eQw.jpeg)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-![]( https://img.shields.io/badge/Use-white)
-[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
-![](https://img.shields.io/badge/with-yellow)
-![](https://img.shields.io/badge/Vuejs-green)
-![](https://img.shields.io/badge/and_-white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/to-white)
-![](https://img.shields.io/badge/build-white)
-![VIBECAST](https://img.shields.io/badge/VIBECAST_-yellow)
-![](https://img.shields.io/badge/at-black)
-![](https://img.shields.io/badge/Epitech_Benin-blue)
+
 
 # German Credit Dataset Analysis
 
