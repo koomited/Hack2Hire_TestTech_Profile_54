@@ -10,7 +10,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-features =  pd.read_csv("https://github.com/koomited/Hack2Hire_TestTech_Profile_54data/features.csv")
+features =  pd.read_csv("https://github.com/koomited/Hack2Hire_TestTech_Profile_54/streamlit-app/data/features.csv")
 features = features.columns.to_list()
 
 importances =  pd.read_csv("data/importances.csv")
