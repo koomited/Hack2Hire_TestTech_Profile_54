@@ -26,18 +26,19 @@ This project analyzes the German Credit Dataset to cluster customers and classif
   
 6. **Deployment:**
    - Create api with flask.
-   - Create dockerfile for model deployment.
-
-   - Streamlit app: https://german-credit-analysis.streamlit.app/
+   - Create dockerfile for api deployment.
+   - Streamlit app : https://german-credit-analysis.streamlit.app/
+   - Create dockerfile for streamlit app.
+  
 
 ## Files Included
 
 - `EDA.ipynb`: Jupyter notebook with analysis code.
-- `utils.py`: python file containing usefull functions for plots and some computations.
+- `eda_utils.py`: python file containing usefull functions for plots and some computations.
 - `readme.md`: This file, providing an overview and instructions.
 - `api.py`: api program using flask
-- `Dockerfile`: dockerile for the model dockerization
-- `test_request.py`: samal test of the api
+- `Dockerfile`: dockerile for the api and streamlit app dockerization
+- `test_api.py`: samal test of the api
 
 ## How to Use
 

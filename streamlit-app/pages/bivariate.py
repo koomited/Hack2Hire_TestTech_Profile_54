@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 ## Import data
 
-dashboard_data = pd.read_csv("data/dashboard_data.csv")
+dashboard_data = pd.read_csv("./data/dashboard_data.csv")
 
 def plot_bivariate_histogram(data, variable, target, xlabel, ylabel="frequency", title=""):
     fig = px.histogram(data_frame=data, x=variable, nbins=30, color=target)

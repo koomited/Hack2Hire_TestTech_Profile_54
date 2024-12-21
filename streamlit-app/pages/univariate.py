@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 ## Import data
 
-dashboard_data = pd.read_csv("data/dashboard_data.csv")
+dashboard_data = pd.read_csv("./data/dashboard_data.csv")
 
 ## plot histogram function
 def plot_histogram(data, variable, xlabel, ylabel="frequency", title=""):
