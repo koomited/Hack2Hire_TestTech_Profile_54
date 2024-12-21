@@ -10,7 +10,6 @@
 <a href="#">
   <img width="100%" src="https://www.marisit.co.za/wp-content/uploads/2019/03/309211-scaled.jpg" alt="Cedit">
 </a>
-# German Credit Dataset Analysis
 
 ## Overview
 
