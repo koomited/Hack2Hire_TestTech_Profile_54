@@ -8,7 +8,7 @@
 
 
 <a href="#">
-  <img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHVdzCXrUFcYDXtT62Y186iXELRsyqNAZJjg&s" alt="Cedit">
+  <img width="100%" src="https://www.marisit.co.za/wp-content/uploads/2019/03/309211-scaled.jpg" alt="Cedit">
 </a>
 # German Credit Dataset Analysis
 
