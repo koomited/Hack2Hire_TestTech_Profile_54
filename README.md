@@ -6,6 +6,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
 ![Awesome](https://img.shields.io/badge/Awesome-ffd700?logo=awesome&logoColor=black)
 
+[![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHVdzCXrUFcYDXtT62Y186iXELRsyqNAZJjg&s)](#)
 
 
 # German Credit Dataset Analysis
