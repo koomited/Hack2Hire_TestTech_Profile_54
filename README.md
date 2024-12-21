@@ -5,6 +5,17 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
+![]( https://img.shields.io/badge/Use-white)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
+![](https://img.shields.io/badge/with-yellow)
+![](https://img.shields.io/badge/Vuejs-green)
+![](https://img.shields.io/badge/and_-white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/to-white)
+![](https://img.shields.io/badge/build-white)
+![VIBECAST](https://img.shields.io/badge/VIBECAST_-yellow)
+![](https://img.shields.io/badge/at-black)
+![](https://img.shields.io/badge/Epitech_Benin-blue)
 
 # German Credit Dataset Analysis
 
