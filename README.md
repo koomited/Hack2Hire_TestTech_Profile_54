@@ -6,9 +6,10 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
 ![Awesome](https://img.shields.io/badge/Awesome-ffd700?logo=awesome&logoColor=black)
 
-[![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHVdzCXrUFcYDXtT62Y186iXELRsyqNAZJjg&s)](#)
 
-
+<a href="#">
+  <img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHVdzCXrUFcYDXtT62Y186iXELRsyqNAZJjg&s" alt="Cedit">
+</a>
 # German Credit Dataset Analysis
 
 ## Overview
