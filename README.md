@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](#)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
 ![Awesome](https://img.shields.io/badge/Awesome-ffd700?logo=awesome&logoColor=black)
@@ -11,6 +12,8 @@
 <a href="#">
   <img width="100%" src="https://www.marisit.co.za/wp-content/uploads/2019/03/309211-scaled.jpg" alt="Cedit">
 </a>
+
+# German credit scoring
 
 ## Overview
 
